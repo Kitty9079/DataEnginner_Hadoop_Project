@@ -120,13 +120,13 @@ After running keep file at `/tmp/default/customers_cln`
     ![alt text](./pict/image-35.png)
     - Insert Script To HDFS 
     ![alt text](./pict/image-36.png)
-    - Put the Script to OOZIE
+    - Put the Script to OOZIE <br>
     ![alt text](./pict/image-37.png)
-    - Create Coordinator 
+    - Create Coordinator <br>
     ![alt text](./pict/image-38.png)
-    - After Save Must Commit again!!!
+    - After Save Must Commit again!!! <br>
     ![alt text](./pict/image-39.png)
-    - Result!!!
+    - Result!!! <br>
     ![alt text](./pict/image-40.png)
     ![alt text](./pict/image-41.png)
 
