@@ -133,7 +133,7 @@ After running keep file at `/tmp/default/customers_cln`
 
 ## Technologies
 **Cloud Infrastructure**
-- Google Cloud Platform (GCP)
+- Google Cloud Platform (GCP) <br>
 Apache Hadoop
 - HDFS (Hadoop Distributed File System)
 - HBase (NoSQL database)
